@@ -1,0 +1,8 @@
+
+find perimeter of triangle
+step1:start
+step2:side1,base,side2,area;
+step3:read side1,side2,base;
+step4:perimeter=side1+base+side2;
+step5:display perimeter;
+step6:stop

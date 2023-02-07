@@ -1,0 +1,12 @@
+probelm:find biggest number amoung 3 number
+
+step1:start
+step2:a,b,c;
+step3:read a,b,c;
+step4:if a>b and a>c;
+  display a is biggest;
+if else b>a and b>c;
+  display b is biggest
+else
+  display c is biggest
+step5:stop

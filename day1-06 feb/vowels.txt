@@ -1,0 +1,9 @@
+vowel or consonent
+s1:start
+s2:decalre char
+s3:read char
+s4:if char == 'a' or char=='e' or char == 'i' or char == 'o' or char == 'u'
+    display vowels
+else:
+    dispay consonent
+s5:stop

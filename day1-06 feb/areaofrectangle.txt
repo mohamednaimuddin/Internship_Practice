@@ -1,0 +1,8 @@
+problem find area of rectangle
+
+step1:start
+step2:length,breadth,area
+step3:read lenght,breadth;
+step4:area=lenght*breadth;
+step5:display area
+step6:stop;

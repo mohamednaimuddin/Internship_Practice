@@ -1,0 +1,7 @@
+s1:start
+s2:declare n;
+s3:n;
+s4:if n%2==0;
+  display n is even;
+  else
+  diplay n is odd

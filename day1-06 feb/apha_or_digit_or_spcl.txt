@@ -1,0 +1,12 @@
+probelm:find given char is alphabet or digit or spcl char
+
+step1:start
+step2:n;
+step3:read n;
+step4:if((n >= 'a' && n <= 'z') || (n >= 'A' && n <= 'Z'));
+  display n is alphabet
+if else(n >= '0' && n <= '9')
+  display n is digit;
+else
+  display n is spcl char;
+step5:stop
