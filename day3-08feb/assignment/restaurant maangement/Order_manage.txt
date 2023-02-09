@@ -1,7 +1,8 @@
-step1:start
-step2:collect order from the customer from menu of the restaurant
-step3:check the availability of the food 
-step4:if not available inform to customer its not available
-step5:else 
-      give instruction to kitchen of the restaurant
-step6:stop
+s1: start
+s2: collect order from the customer 
+s3: check the availability of the food 
+s4: if not available inform to customer its not available
+s5: else give instruction to kitchen of the restaurant
+s6: serve the food to the customer
+s7: submit the bill to the customer if finished
+s8: stop

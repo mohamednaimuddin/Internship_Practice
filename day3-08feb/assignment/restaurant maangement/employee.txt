@@ -1,6 +1,9 @@
-step1:start
-step2:get the information about menu items and availability from the kitchen
-step3:if customer order food tell whether it is available or not
-step4:if available take order and give to kitchen and once done from kitchen serve the food to appropriate customer
-step5:if not available ask customer to change the dish
-step6:stop
+s1:start
+s2:get the information about menu items 
+s3: check the availability from the kitchen
+s4:if customer order food tell whether it is available or not
+s5:if available take order 
+s6:update it to kitchen 
+s7:once done from kitchen serve the food to appropriate customer
+s8:if not available ask customer to change the dish
+s9:stop

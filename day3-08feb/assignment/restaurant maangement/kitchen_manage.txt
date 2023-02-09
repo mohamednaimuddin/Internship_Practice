@@ -1,6 +1,6 @@
-step1:start
-step2:prepare the food using the proper measure
-step3:infrom the to availabilty of the dishes to employee 
-step4:wait for the order from the employees 
-step5:once order is received prepare the food and keep in the kitchen
-step6:stop
+s1:start
+s2:check the menu and arrange the products required for preparing the food
+s3:infrom the to availabilty of the dishes  to employee
+s4:prepare the food accordint to the menu when order is updated
+s5:when the food is cooked then give it to the one who serves it to the customer
+s6:stop
