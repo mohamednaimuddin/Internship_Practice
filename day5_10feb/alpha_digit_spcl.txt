@@ -1,0 +1,11 @@
+BEGIN
+  DECLARE n
+  READ n
+  IF ((n >= 'a' && n <= 'z') || (n >= 'A' && n <= 'Z'))THEN
+    DISPLAY 'n is alphabet'
+  ELSE IF(n >= '0' && n <= '9')THEN
+    DISPLAY 'n is digit'
+  ELSE 
+    DISPLAY 'n is special char'
+  END IF
+END

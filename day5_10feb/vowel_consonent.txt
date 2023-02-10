@@ -1,0 +1,9 @@
+BEGIN
+  DECLARE n
+  READ n
+  IF (n == 'a' or n=='e' or n == 'i' or n == 'o' or n == 'u') DO
+    DISPLAY 'n is vowel'
+  ELSE
+    DISPLAY 'n is consonent'
+  END IF
+END

@@ -1,0 +1,6 @@
+BEGIN
+  DECLARE n,area;
+  READ n;
+  CALCULATE area=n*n;
+  DISPLAY area;
+END

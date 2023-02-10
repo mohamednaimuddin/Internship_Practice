@@ -1,0 +1,11 @@
+BEGIN
+  DECLARE n;
+  READ n;
+  IF(n>0)THEN
+    DISPLAY "n is positive"
+  ELSE IF(n<0)
+    DISPLAY "n is negative"
+  ELSE 
+    DISPLAY "n is zero"
+  END ID
+END

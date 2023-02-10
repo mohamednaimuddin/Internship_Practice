@@ -1,0 +1,9 @@
+BEGIN
+  DECLARE n;
+  READ n;
+  IF(n=='t')THEN
+    DISPLAY "n contain char t"
+  ELSE
+    DISPLAY "n not contain char t"
+  END ID
+END

@@ -1,0 +1,6 @@
+BEGIN
+  DECLARE n,perimeter;
+  READ n;
+  CALCULATE perimeter=4*n;
+  DISPLAY perimeter;
+END
